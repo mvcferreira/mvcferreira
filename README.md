@@ -27,8 +27,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mvcferreira/)
 
 ###
-
- ![Snake animation](https://github.com/mvcferreira/mvcferreira/blob/output/github-contribution-grid-snake.svg)
 <!--
 **mvcferreira/mvcferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
